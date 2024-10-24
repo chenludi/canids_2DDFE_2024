@@ -1,0 +1,4 @@
+run	# Log(likelihood)	log_mu	log_sigma	rho	theta
+split_mig.3.AW_BC.26.12.NS.biv_lognormal.cache2d1.00.InferDFE.bestfits	-792.7606099	6.72803818	9.267080681	0.999744463	23758.14346
+split_mig.3.AW_LB.26.18.NS.biv_lognormal.cache2d1.00.InferDFE.bestfits	-1008.810608	7.196907855	9.867194015	0.999742691	24563.62676
+split_mig.3.AW_PG.26.28.NS.biv_lognormal.cache2d1.00.InferDFE.bestfits	-1354.336704	7.099581877	9.828758547	0.999807646	26220.38352

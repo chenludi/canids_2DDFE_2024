@@ -1,0 +1,13 @@
+dir_outdemog:/u/home/c/cdi/project-klohmuel/dog_2408/output_demog/split_mig.AW_PG.26.28.S.3
+model:split_mig
+likelyhood_cutoff:500.0
+mutfile:None
+mutation_ctrl_diploid:0.27315451588
+max_ll_key:1089
+ll:-1568.6464190793217
+nu1:0.3620047439325265
+nu2:0.0646632690803956
+T:0.07479528144283924
+m:0.39178290552191797
+theta:11864.426931995597
+Na:21717.42776020547
